@@ -6,11 +6,8 @@
 ![Python](https://img.shields.io/badge/Python-3.x-%233776AB?logo=python) 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--learn-orange)  
 
----
+## 📌 **Conteúdo**
 
-## 📌 **Conteúdo do Ciclo Formativo 13**  
-
-### 📊 **Módulos Principais**  
 ✔ **Introdução à IA e Python**  
 - Lógica de programação com Python.  
 - Manipulação de dados com **Pandas** e **NumPy**.  
